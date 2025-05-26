@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,5 +66,5 @@ footer { background: #1e293b; padding: 20px; text-align: center; margin-top: 40p
     <p>Equipe: Gabriel Santos, Rafael Lima, Giovanna Oliveira, Maria Clara, Ana Luiza.</p>
   </footer>
 </body>
-</html>
+
 
